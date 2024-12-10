@@ -1,7 +1,7 @@
 # c22-34-n-data-bi
 # Análisis de Tráfico - Sistema de Transporte de Pasajeros
 
-<p align=center><img src=src/uno.jpg width="300"><p>
+<p align=center><img src=src/uno.jpg><p>
 
 ## 📌 Integrantes
 
@@ -133,7 +133,7 @@ El estado del proyecto esta en una fase preliminar, obteniendo buenos resultados
         <p><h2>Link a la presentación final</h2></p>
         <h2><a class="button" href="https://view.genially.com/6721b599186834c1ad285759/presentation-kaeleidoconsultora" target="_blank">Ver Presentación</a></h2>
       <p><h2>Link al Dashboard</h2></p>
-        <h2><a class="button" href="https://view.genially.com/6721b599186834c1ad285759/presentation-kaeleidoconsultora" target="_blank">Ver Presentación</a></h2>
+        <h2><a class="button" href="https://view.genially.com/6721b599186834c1ad285759/presentation-kaeleidoconsultora" target="_blank">Ver Tablero</a></h2>
   </body>
 </html>
 
