@@ -80,7 +80,7 @@ La estructura de directorios se plantea:
         ├── NoCountry-data-mexico.ipynb                        # EDA sin imagenes
         ├── NoCountry-data-mexico.html                         # visualizacion EDA html
         ├── visualizacion.pbix                                 # Visualización interactiva de los resultados (Power BI)
-        └── modelado_ml.ipynb                                  # Modelado predictivo usando Machine Learning
+        └── nocuntry-RLog-Clust-setCompleto.ipynb              # Modelado predictivo usando Machine Learning
 
 
 
