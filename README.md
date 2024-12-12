@@ -75,12 +75,12 @@ La estructura de directorios se plantea:
     │
     ├── datasets/                      # preprocesado de datos xlsm
     │
-    ├── codigo/                        # Cuadernos Jupyter 
-        ├── archivo aaaammmmmmm.ipynb   # Extracción y comprensión inicial de los datos
-        ├── archivo EDA, ipynb          # Tratamiento de datos: limpieza y preprocesamiento
-        ├── eda.ipynb                   # Análisis exploratorio de los datos (EDA)
-        ├── visualizacion.pbix          # Visualización interactiva de los resultados (Power BI)
-        └── modelado_ml.ipynb           # Modelado predictivo usando Machine Learning
+    ├── codigo/                                                # Cuadernos Jupyter 
+        ├── NoCountry-data-mexico - con_imagenes.ipynb.ipynb   # Análisis exploratorio de los datos (EDA)
+        ├── NoCountry-data-mexico.ipynb                        # EDA sin imagenes
+        ├── NoCountry-data-mexico.html                         # visualizacion EDA html
+        ├── visualizacion.pbix                                 # Visualización interactiva de los resultados (Power BI)
+        └── modelado_ml.ipynb                                  # Modelado predictivo usando Machine Learning
 
 
 
@@ -101,28 +101,24 @@ El análisis de los datos en Power Bi, se implementa mediante un dashboard inter
 
 ## ➡️Resultados Esperados - Python
 
-El análisis de los datos en Power Bi, se implementa mediante un dashboard interactivo que permite visualizar:
+El análisis de los datos EDA, se implementa mediante un script en lenguaje python que permite visualizar:
 
-- Insight 1.
-- Insight 1.
-- Insight 1.
-- Insight 1.
+- Valores descriptivos de las variables (media, mediana, desviación estandar,etc)
+- Análisis Univariado
+- Análisis Bivariado
+- Análisis de Tendencias
+- Correlación de variables
 
 ## ➡️Resultados Esperados - Machine Learning
 
 El análisis de los datos en Power Bi, se implementa mediante un dashboard interactivo que permite visualizar:
 
-- Insight 1.
-- Insight 1.
-- Insight 1.
-- Insight 1.
-
+- Predicciones
+- Agrupamientos
 
 
 ## 📌Referencias
 El estado del proyecto esta en una fase preliminar, obteniendo buenos resultados.
-
-
 
 
 ## 📌Presentación de los resultados del proyecto
