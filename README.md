@@ -127,9 +127,9 @@ El estado del proyecto esta en una fase preliminar, obteniendo buenos resultados
 <body>
     <div class="container">
         <p><h2>Link a la presentación final</h2></p>
-        <h2><a class="button" href="https://view.genially.com/6721b599186834c1ad285759/presentation-kaeleidoconsultora" target="_blank">Ver Presentación</a></h2>
+        <h2><a class="button" href="https:......................" target="_blank">Ver Presentación</a></h2>
       <p><h2>Link al Dashboard</h2></p>
-        <h2><a class="button" href="https://view.genially.com/6721b599186834c1ad285759/presentation-kaeleidoconsultora" target="_blank">Ver Tablero</a></h2>
+        <h2><a class="button" href="https://............................" target="_blank">Ver Tablero</a></h2>
   </body>
 </html>
 
