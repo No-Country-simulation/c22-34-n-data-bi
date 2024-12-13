@@ -94,10 +94,10 @@ https://datos.cdmx.gob.mx/ne/dataset/?organization=secretaria-de-movilidad
 
 El análisis de los datos en Power Bi, se implementa mediante un dashboard interactivo que permite visualizar:
 
-- Insight 1.
-- Insight 1.
-- Insight 1.
-- Insight 1.
+- Afluencia por fechas.
+- Análisis por servicios.
+- Incidentes.
+- Agrupamientos.
 
 ## ➡️Resultados Esperados - Python
 
@@ -129,7 +129,7 @@ El estado del proyecto esta en una fase preliminar, obteniendo buenos resultados
         <p><h2>Link a la presentación final</h2></p>
         <h2><a class="button" href="https:......................" target="_blank">Ver Presentación</a></h2>
       <p><h2>Link al Dashboard</h2></p>
-        <h2><a class="button" href="https://............................" target="_blank">Ver Tablero</a></h2>
+        <h2><a class="button" href="https://app.powerbi.com/view r=eyJrIjoiNTg1MzJlNzEtYjJhNS00YzRlLWIyYzUtNmY5YzQ0ZDliNjBlIiwidCI6IjAzZTFiMjI2LTU3ODktNGE5Ny05MGY2LTQ0YTQ0MjQxYmE2ZCIsImMiOjR9" target="_blank">Ver Tablero</a></h2>
   </body>
 </html>
 
